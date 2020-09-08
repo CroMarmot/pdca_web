@@ -22,3 +22,9 @@ $ yarn generate
 ## Server
 
 [pdca_server](https://github.com/CroMarmot/pdca_server)
+
+## Dep
+
+Nuxt
+
+Element-ui

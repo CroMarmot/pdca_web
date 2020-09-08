@@ -386,7 +386,7 @@ export default {
     },
     // TODO 弹框编辑
     handleDelete(_index, _row) {
-      this.plan.plan_and_do.splice(0, 1)
+      this.plan.plan_and_do.splice(_index, 1)
     }
   }
 }
